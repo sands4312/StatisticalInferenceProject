@@ -1,1 +1,3 @@
 # StatisticalInferenceProject
+
+#Initial commit test
